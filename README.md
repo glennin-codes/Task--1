@@ -13,8 +13,8 @@ A Node.js microservices project with MongoDB and Redis, containerized with Docke
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/glennin-codes/Task--1.git
+   cd  Task--1
    ```
 or download this zip file
 ```
